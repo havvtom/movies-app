@@ -3,9 +3,8 @@ For the application to run after cloning it, there are 2 steps that need to be f
 be configured in the config.php file. The program gets all the movies and information from the movies database api. These keys 
 are api_key, account_id and session_id. For you to get these keys you need to sign up and configure your account with themoviedb.org.
 More information can be found
-``` 
-<a href="https://developers.themoviedb.org/3/getting-started/introduction">here</a>
-```
+"https://developers.themoviedb.org/3/getting-started/introduction"
+
 . Once you get the keys you need to replace api_key, session_id, account_id values in the config.php file
 
 ```
